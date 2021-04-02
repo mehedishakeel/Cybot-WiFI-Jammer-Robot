@@ -12,11 +12,7 @@ SSTecTutorials : https://goo.gl/CL51EH
 
 My Step By Step Video Instruction to Make CyBot Robot Car : 
 
-CyBot Warrior Robot Cyber Security Warrior with Arduino Part #1 : https://youtu.be/DINk1eWiKu8
-
-CyBot Warrior Robot With WiFi Jamming Feature Cyber Security Warrior with Arduino Part #2  : https://youtu.be/-QRaTKbTMGQ
-
-More features Coming Soon.........
+CyBot Warrior Robot Cyber Security Warrior with Arduino  : https://www.youtube.com/playlist?list=PLoAx5AQlvczW-MRAANPGODexZLEN9gwqQ
 
 Equipment i use till now : 
 
@@ -36,23 +32,23 @@ Equipment i use till now :
 
 8) Ultrasonic S-04 Senseor 
 
-More Updates and Features Coming Soon !!!
+🔴 DO SUBSCRIBE To Our Channel!
+🔗 Shakeel Tech Tips:https://tinyurl.com/sstectutorials
+🔗 SSTecTutorials: https://goo.gl/CL51EH
+
+🔴 Also, JOIN NOW!
+🔗 Discord Channel: https://discord.gg/NYreUdYc9G
+🔗 Telegram Channel: https://t.me/sstectutorialsofficial
 
 If you have any questions & inquiries Contact :
 -------------------------------------------------
 Connect With Me Socially !
 -------------------------------------------------
-Like Us On Facebook: https://goo.gl/EdyWB9
+🔴 Connect With Me on Other Social Platforms!
+🔗 Follow Me on Facebook: https://fb.com/sstectutorials
+🔗 Follow Me on Facebook: https://fb.com/mehedishakeel
+🔗 Follow Me on Twitter: https://twitter.com/mehedihshakeel
+🔗 Follow Our Instagram Page: https://instagram.com/sstectutorials
 
-Follow Me on Facebook: https://goo.gl/pcNNji
-
-Join Our Facebook Group: https://goo.gl/5vzxT6
-
-Follow Me on Twitter: https://goo.gl/K9LJeo
-
-Follow Our Instagram Page: https://goo.gl/g66fQQ
-
-Join Us on Google +: https://goo.gl/xJzxXy 
-
-Thank You!!!
+Thnak You!
 
