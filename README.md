@@ -33,22 +33,34 @@ Equipment i use till now :
 8) Ultrasonic S-04 Senseor 
 
 🔴 DO SUBSCRIBE To Our Channel!
+
 🔗 Shakeel Tech Tips:https://tinyurl.com/sstectutorials
+
 🔗 SSTecTutorials: https://goo.gl/CL51EH
 
 🔴 Also, JOIN NOW!
+
 🔗 Discord Channel: https://discord.gg/NYreUdYc9G
+
 🔗 Telegram Channel: https://t.me/sstectutorialsofficial
 
 If you have any questions & inquiries Contact :
+
 -------------------------------------------------
+
 Connect With Me Socially !
 -------------------------------------------------
+
 🔴 Connect With Me on Other Social Platforms!
+
 🔗 Follow Me on Facebook: https://fb.com/sstectutorials
+
 🔗 Follow Me on Facebook: https://fb.com/mehedishakeel
+
 🔗 Follow Me on Twitter: https://twitter.com/mehedihshakeel
+
 🔗 Follow Our Instagram Page: https://instagram.com/sstectutorials
+
 
 Thnak You!
 
