@@ -28,15 +28,22 @@ Equipment i use till now :
 
 
 🔴 Do Subscribe To Our Channels!
+
 🔗 Mehedi Shakeel: https://tinyurl.com/submehedishakeel
+
 🔗 SSTec Tutorials: https://tinyurl.com/subsstectutorials
+
 
 If you have any questions or suggestions feel free to post them in the comments section or on my social networks.
 
 🔴 My Social Media Profiles
-🔗 Follow me on Facebook: https://www.facebook.com/mehedishakeel​
-🔗 Follow me on Instagram: https://www.instagram.com/mehedishakeel​
+
+🔗 Follow me on Facebook: https://www.facebook.com/mehedishakeel
+
+🔗 Follow me on Instagram: https://www.instagram.com/mehedishakeel
+
 🔗 Follow Me on Twitter: https://www.twitter.com/mehedishakeel
+
 🔗 Join Me on LinkedIn : https://www.linkedin.com/in/mehedishakeel
 
 Thank You!
