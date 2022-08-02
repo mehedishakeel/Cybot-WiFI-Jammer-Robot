@@ -7,8 +7,6 @@ CyBot Robot Car is a Arduino Based Bluetooth Controlled Car Which can jam every 
 
 CyBot Robot Car is a Arduino Based Bluetooth Controlled Car Which can jam every wifi connection near 10 meter also it will can avoid obstacle and find it's own way to go also it will  have a lots of features regarding cyber security and hacking in Future.
 
-SUBSCRIBE FOR MORE ( It's FREE!!! ) 
-SSTecTutorials : https://goo.gl/CL51EH
 
 My Step By Step Video Instruction to Make CyBot Robot Car : 
 
@@ -32,35 +30,18 @@ Equipment i use till now :
 
 8) Ultrasonic S-04 Senseor 
 
-🔴 DO SUBSCRIBE To Our Channel!
 
-🔗 Shakeel Tech Tips:https://tinyurl.com/sstectutorials
+🔴 Do Subscribe To Our Channels!
+🔗 Mehedi Shakeel: https://tinyurl.com/submehedishakeel
+🔗 SSTec Tutorials: https://tinyurl.com/subsstectutorials
 
-🔗 SSTecTutorials: https://goo.gl/CL51EH
+If you have any questions or suggestions feel free to post them in the comments section or on my social networks.
 
-🔴 Also, JOIN NOW!
+🔴 My Social Media Profiles
+🔗 Follow me on Facebook: https://www.facebook.com/mehedishakeel​
+🔗 Follow me on Instagram: https://www.instagram.com/mehedishakeel​
+🔗 Follow Me on Twitter: https://www.twitter.com/mehedishakeel
+🔗 Join Me on LinkedIn : https://www.linkedin.com/in/mehedishakeel
 
-🔗 Discord Channel: https://discord.gg/NYreUdYc9G
-
-🔗 Telegram Channel: https://t.me/sstectutorialsofficial
-
-If you have any questions & inquiries Contact :
-
--------------------------------------------------
-
-Connect With Me Socially !
--------------------------------------------------
-
-🔴 Connect With Me on Other Social Platforms!
-
-🔗 Follow Me on Facebook: https://fb.com/sstectutorials
-
-🔗 Follow Me on Facebook: https://fb.com/mehedishakeel
-
-🔗 Follow Me on Twitter: https://twitter.com/mehedihshakeel
-
-🔗 Follow Our Instagram Page: https://instagram.com/sstectutorials
-
-
-Thnak You!
+Thank You!
 
